@@ -1,0 +1,14 @@
+#spec_name	MJD 	instrument
+tns_2020fqv_2020-04-01.6_Lijiang-2.4m_YFOSC.dat	58940.60	class
+2020fqv-floyds-20200402.flm	58941.26	floyds
+2020fqv-floyds-20200403.flm	58942.26	floyds
+2020fqv-floyds-20200404.flm	58943.27	floyds
+2020fqv-floyds-20200408.flm	58947.55	floyds
+2020fqv-floyds-20200413.flm	58952.43	floyds
+2020fqv-floyds-20200418.flm	58957.30	floyds
+SN2020fqv-20200520-gmos.flm	58989.34	gmos
+2020fqv-combined-20200523_ap1.flm	58992.20	kast
+2020fqv-combined-20200527_ap1.flm	58996.32	kast
+SN2020fqv-20200603-gmos.flm	59003.26	gmos
+SN2020fqv-20200613-gmos.flm	59013.33	gmos
+SN2020fqv-20200623-gmos.flm	59026.27	gmos
